@@ -1,11 +1,5 @@
-Very simple and crude blackjack game created using C++
-
-Only input that is checked to be valid is the betting system.
-
-If you do play the game please do not try to break it because it will :D
-
-
-Just a fun little side project in my freetime to cure some boredom.
+Very simple blackjack game made using C++
+One of my first tiny side projects in learning C++.
 
 
 MADE BY:
